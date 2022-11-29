@@ -25,7 +25,7 @@
   * Insomnia
   
   ## Description
-    This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and native JavaScript Date object to format timestamps. The seed data is created using Insomnia.  
+  This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and native JavaScript Date object to format timestamps. The seed data is created using Insomnia.  
 
   ![alt text](./public/assetts/images/Capture.PNG)
   
@@ -35,7 +35,7 @@
   ## Usage
   A user can utilize this API to create a new user with a valid username and email, add other users as friends, post "thoughts" as well as "reactions" to thoughts, update and delete thoughts and reactions, and delete friends.
 
-[Link to Demo](https://youtu.be/7xqe20-4yT0)
+[Link to Demo](https://youtu.be/Wiw-hRUe99U)
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
